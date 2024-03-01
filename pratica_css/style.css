@@ -16,20 +16,13 @@ body {
     padding: 10px;
 }
 
-.container_foto {
+.box {
     height: 100px;
     width: 100px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706797.png');
+    background-size: cover;
 }
 
-#perfil {
-    height: 100%;
-    width: 100%;
-}
-
-.container_sobre p i {
+.main-color {
     color: blue;
-}
-
-.container_sobre span {
-    color: green;
 }
